@@ -1,0 +1,500 @@
+# Resource object code (Python 3)
+# Created by: object code
+# Created by: The Resource Compiler for Qt version 6.5.0
+# WARNING! All changes made in this file will be lost!
+
+from PySide6 import QtCore
+
+qt_resource_data = b"\
+\x00\x00\x01=\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x222\
+4px\x22 viewBox=\x220 \
+0 24 24\x22 width=\x22\
+24px\x22 fill=\x22#000\
+000\x22><path d=\x22M0\
+ 0h24v24H0V0z\x22 f\
+ill=\x22none\x22/><pat\
+h d=\x22M13 7h-2v4H\
+7v2h4v4h2v-4h4v-\
+2h-4V7zm-1-5C6.4\
+8 2 2 6.48 2 12s\
+4.48 10 10 10 10\
+-4.48 10-10S17.5\
+2 2 12 2zm0 18c-\
+4.41 0-8-3.59-8-\
+8s3.59-8 8-8 8 3\
+.59 8 8-3.59 8-8\
+ 8z\x22/></svg>\
+\x00\x00\x01\xcb\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x222\
+4px\x22 viewBox=\x220 \
+0 24 24\x22 width=\x22\
+24px\x22 fill=\x22#000\
+000\x22><path d=\x22M0\
+ 0h24v24H0V0z\x22 f\
+ill=\x22none\x22/><pat\
+h d=\x22M15.55 13c.\
+75 0 1.41-.41 1.\
+75-1.03l3.58-6.4\
+9c.37-.66-.11-1.\
+48-.87-1.48H5.21\
+l-.94-2H1v2h2l3.\
+6 7.59-1.35 2.44\
+C4.52 15.37 5.48\
+ 17 7 17h12v-2H7\
+l1.1-2h7.45zM6.1\
+6 6h12.15l-2.76 \
+5H8.53L6.16 6zM7\
+ 18c-1.1 0-1.99.\
+9-1.99 2S5.9 22 \
+7 22s2-.9 2-2-.9\
+-2-2-2zm10 0c-1.\
+1 0-1.99.9-1.99 \
+2s.89 2 1.99 2 2\
+-.9 2-2-.9-2-2-2\
+z\x22/></svg>\
+\x00\x00\x02\xb7\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x222\
+4\x22 viewBox=\x220 96\
+ 960 960\x22 width=\
+\x2224\x22><path d=\x22M1\
+82 856q-51 0-79-\
+35.5T82 734l42-3\
+00q9-60 53.5-99T\
+282 296h396q60 0\
+ 104.5 39t53.5 9\
+9l42 300q7 51-21\
+ 86.5T778 856q-2\
+1 0-39-7.5T706 8\
+26l-90-90H344l-9\
+0 90q-15 15-33 2\
+2.5t-39 7.5Zm16-\
+86 114-114h336l1\
+14 114q2 2 16 6 \
+11 0 17.5-6.5T80\
+0 752l-44-308q-4\
+-29-26-48.5T678 \
+376H282q-30 0-52\
+ 19.5T204 444l-4\
+4 308q-2 11 4.5 \
+17.5T182 776q2 0\
+ 16-6Zm482-154q1\
+7 0 28.5-11.5T72\
+0 576q0-17-11.5-\
+28.5T680 536q-17\
+ 0-28.5 11.5T640\
+ 576q0 17 11.5 2\
+8.5T680 616Zm-80\
+-120q17 0 28.5-1\
+1.5T640 456q0-17\
+-11.5-28.5T600 4\
+16q-17 0-28.5 11\
+.5T560 456q0 17 \
+11.5 28.5T600 49\
+6ZM310 616h60v-7\
+0h70v-60h-70v-70\
+h-60v70h-70v60h7\
+0v70Zm170-40Z\x22/>\
+</svg>\
+\x00\x00\x00\xc8\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x222\
+4px\x22 viewBox=\x220 \
+0 24 24\x22 width=\x22\
+24px\x22 fill=\x22#000\
+000\x22><path d=\x22M0\
+ 0h24v24H0z\x22 fil\
+l=\x22none\x22/><path \
+d=\x22M20 5.41L18.5\
+9 4 7 15.59V9H5v\
+10h10v-2H8.41z\x22/\
+></svg>\
+\x00\x00\x00\xf5\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 enable-ba\
+ckground=\x22new 0 \
+0 24 24\x22 height=\
+\x2224px\x22 viewBox=\x22\
+0 0 24 24\x22 width\
+=\x2224px\x22 fill=\x22#0\
+00000\x22><rect fil\
+l=\x22none\x22 height=\
+\x2224\x22 width=\x2224\x22/\
+><path d=\x22M15,19\
+v-2H8.41L20,5.41\
+L18.59,4L7,15.59\
+V9H5v10H15z\x22/></\
+svg>\
+\x00\x00\x01;\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x222\
+4\x22 viewBox=\x220 96\
+ 960 960\x22 width=\
+\x2224\x22><path d=\x22M2\
+80 1016q-33 0-56\
+.5-23.5T200 936V\
+216q0-33 23.5-56\
+.5T280 136h400q3\
+3 0 56.5 23.5T76\
+0 216v720q0 33-2\
+3.5 56.5T680 101\
+6H280Zm0-120v40h\
+400v-40H280Zm0-8\
+0h400V336H280v48\
+0Zm0-560h400v-40\
+H280v40Zm0 0v-40\
+ 40Zm0 640v40-40\
+Z\x22/></svg>\
+\x00\x00\x01\x18\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x222\
+4\x22 viewBox=\x220 96\
+ 960 960\x22 width=\
+\x2224\x22><path d=\x22M1\
+60 896q-33 0-56.\
+5-23.5T80 816V33\
+6q0-33 23.5-56.5\
+T160 256h480q33 \
+0 56.5 23.5T720 \
+336v180l160-160v\
+440L720 636v180q\
+0 33-23.5 56.5T6\
+40 896H160Zm0-80\
+h480V336H160v480\
+Zm0 0V336v480Z\x22/\
+></svg>\
+\x00\x00\x01o\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x222\
+4px\x22 viewBox=\x220 \
+0 24 24\x22 width=\x22\
+24px\x22 fill=\x22#000\
+000\x22><path d=\x22M0\
+ 0h24v24H0V0z\x22 f\
+ill=\x22none\x22/><pat\
+h d=\x22M14.06 9.02\
+l.92.92L5.92 19H\
+5v-.92l9.06-9.06\
+M17.66 3c-.25 0-\
+.51.1-.7.29l-1.8\
+3 1.83 3.75 3.75\
+ 1.83-1.83c.39-.\
+39.39-1.02 0-1.4\
+1l-2.34-2.34c-.2\
+-.2-.45-.29-.71-\
+.29zm-3.6 3.19L3\
+ 17.25V21h3.75L1\
+7.81 9.94l-3.75-\
+3.75z\x22/></svg>\
+\x00\x00\x00\xac\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x224\
+8\x22 viewBox=\x220 96\
+ 960 960\x22 width=\
+\x2248\x22><path d=\x22M1\
+20 816v-60h720v6\
+0H120Zm0-210v-60\
+h720v60H120Zm0-2\
+10v-60h720v60H12\
+0Z\x22/></svg>\
+\x00\x00\x01\x1a\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x222\
+4\x22 viewBox=\x220 96\
+ 960 960\x22 width=\
+\x2224\x22><path d=\x22M1\
+60 936v-80q-33 0\
+-56.5-23.5T80 77\
+6V336q0-33 23.5-\
+56.5T160 256h640\
+q33 0 56.5 23.5T\
+880 336v440q0 33\
+-23.5 56.5T800 8\
+56v80h-40l-26-80\
+H227l-27 80h-40Z\
+m0-160h640V336H1\
+60v440Zm320-220Z\
+\x22/></svg>\
+\x00\x00\x01\xda\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x222\
+4\x22 viewBox=\x220 96\
+ 960 960\x22 width=\
+\x2224\x22><path d=\x22M1\
+60 776q-17 0-28.\
+5-11.5T120 736q0\
+-17 11.5-28.5T16\
+0 696q17 0 28.5 \
+11.5T200 736q0 1\
+7-11.5 28.5T160 \
+776Zm0-160q-17 0\
+-28.5-11.5T120 5\
+76q0-17 11.5-28.\
+5T160 536q17 0 2\
+8.5 11.5T200 576\
+q0 17-11.5 28.5T\
+160 616Zm0-160q-\
+17 0-28.5-11.5T1\
+20 416q0-17 11.5\
+-28.5T160 376q17\
+ 0 28.5 11.5T200\
+ 416q0 17-11.5 2\
+8.5T160 456Zm120\
+ 320v-80h560v80H\
+280Zm0-160v-80h5\
+60v80H280Zm0-160\
+v-80h560v80H280Z\
+\x22/></svg>\
+\x00\x00\x00\xc7\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x222\
+4\x22 viewBox=\x220 96\
+ 960 960\x22 width=\
+\x2224\x22><path d=\x22M0\
+ 896v-80h80V216h\
+800v600h80v80H0Z\
+m400-80h160v-40H\
+400v40ZM160 696h\
+640V296H160v400Z\
+m0 0V296v400Z\x22/>\
+</svg>\
+\x00\x00\x029\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x222\
+4\x22 viewBox=\x220 96\
+ 960 960\x22 width=\
+\x2224\x22><path d=\x22M2\
+40 856v40q0 17-1\
+1.5 28.5T200 936\
+h-40q-17 0-28.5-\
+11.5T120 896V576\
+l84-240q6-18 21.\
+5-29t34.5-11h440\
+q19 0 34.5 11t21\
+.5 29l84 240v320\
+q0 17-11.5 28.5T\
+800 936h-40q-17 \
+0-28.5-11.5T720 \
+896v-40H240Zm-8-\
+360h496l-42-120H\
+274l-42 120Zm-32\
+ 80v200-200Zm100\
+ 160q25 0 42.5-1\
+7.5T360 676q0-25\
+-17.5-42.5T300 6\
+16q-25 0-42.5 17\
+.5T240 676q0 25 \
+17.5 42.5T300 73\
+6Zm360 0q25 0 42\
+.5-17.5T720 676q\
+0-25-17.5-42.5T6\
+60 616q-25 0-42.\
+5 17.5T600 676q0\
+ 25 17.5 42.5T66\
+0 736Zm-460 40h5\
+60V576H200v200Z\x22\
+/></svg>\
+\x00\x00\x00\xfc\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x222\
+4px\x22 viewBox=\x220 \
+0 24 24\x22 width=\x22\
+24px\x22 fill=\x22#000\
+000\x22><path d=\x22M0\
+ 0h24v24H0V0z\x22 f\
+ill=\x22none\x22/><pat\
+h d=\x22M16 9v10H8V\
+9h8m-1.5-6h-5l-1\
+ 1H5v2h14V4h-3.5\
+l-1-1zM18 7H6v12\
+c0 1.1.9 2 2 2h8\
+c1.1 0 2-.9 2-2V\
+7z\x22/></svg>\
+\x00\x00\x00\xf4\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 enable-ba\
+ckground=\x22new 0 \
+0 24 24\x22 height=\
+\x2224px\x22 viewBox=\x22\
+0 0 24 24\x22 width\
+=\x2224px\x22 fill=\x22#0\
+00000\x22><rect fil\
+l=\x22none\x22 height=\
+\x2224\x22 width=\x2224\x22/\
+><path d=\x22M5,15h\
+2V8.41L18.59,20L\
+20,18.59L8.41,7H\
+15V5H5V15z\x22/></s\
+vg>\
+"
+
+qt_resource_name = b"\
+\x00\x04\
+\x00\x06\xfa^\
+\x00i\
+\x00c\x00o\x00n\
+\x00!\
+\x03\xb2\xb2\xc7\
+\x00a\
+\x00d\x00d\x00_\x00c\x00i\x00r\x00c\x00l\x00e\x00_\x00o\x00u\x00t\x00l\x00i\x00n\
+\x00e\x00_\x00b\x00l\x00a\x00c\x00k\x00_\x002\x004\x00d\x00p\x00.\x00s\x00v\x00g\
+\
+\x00\x1c\
+\x03at\x87\
+\x00s\
+\x00h\x00o\x00p\x00p\x00i\x00n\x00g\x00_\x00c\x00a\x00r\x00t\x00_\x00b\x00l\x00a\
+\x00c\x00k\x00_\x002\x004\x00d\x00p\x00.\x00s\x00v\x00g\
+\x00-\
+\x0a\x10\xe6\x87\
+\x00s\
+\x00p\x00o\x00r\x00t\x00s\x00_\x00e\x00s\x00p\x00o\x00r\x00t\x00s\x00_\x00F\x00I\
+\x00L\x00L\x000\x00_\x00w\x00g\x00h\x00t\x004\x000\x000\x00_\x00G\x00R\x00A\x00D\
+\x000\x00_\x00o\x00p\x00s\x00z\x002\x004\x00.\x00s\x00v\x00g\
+\x00\x1c\
+\x0eE\xa7\x07\
+\x00c\
+\x00a\x00l\x00l\x00_\x00r\x00e\x00c\x00e\x00i\x00v\x00e\x00d\x00_\x00b\x00l\x00a\
+\x00c\x00k\x00_\x002\x004\x00d\x00p\x00.\x00s\x00v\x00g\
+\x00\x19\
+\x0ap\x9c\xe7\
+\x00s\
+\x00o\x00u\x00t\x00h\x00_\x00w\x00e\x00s\x00t\x00_\x00b\x00l\x00a\x00c\x00k\x00_\
+\x002\x004\x00d\x00p\x00.\x00s\x00v\x00g\
+\x00)\
+\x011q\xa7\
+\x00s\
+\x00m\x00a\x00r\x00t\x00p\x00h\x00o\x00n\x00e\x00_\x00F\x00I\x00L\x00L\x000\x00_\
+\x00w\x00g\x00h\x00t\x004\x000\x000\x00_\x00G\x00R\x00A\x00D\x000\x00_\x00o\x00p\
+\x00s\x00z\x002\x004\x00.\x00s\x00v\x00g\
+\x00'\
+\x0a\xfd\xf9\xe7\
+\x00v\
+\x00i\x00d\x00e\x00o\x00c\x00a\x00m\x00_\x00F\x00I\x00L\x00L\x000\x00_\x00w\x00g\
+\x00h\x00t\x004\x000\x000\x00_\x00G\x00R\x00A\x00D\x000\x00_\x00o\x00p\x00s\x00z\
+\x002\x004\x00.\x00s\x00v\x00g\
+\x00\x13\
+\x00\x85\xebg\
+\x00e\
+\x00d\x00i\x00t\x00_\x00b\x00l\x00a\x00c\x00k\x00_\x002\x004\x00d\x00p\x00.\x00s\
+\x00v\x00g\
+\x00#\
+\x0c\x0fsG\
+\x00m\
+\x00e\x00n\x00u\x00_\x00F\x00I\x00L\x00L\x000\x00_\x00w\x00g\x00h\x00t\x004\x000\
+\x000\x00_\x00G\x00R\x00A\x00D\x000\x00_\x00o\x00p\x00s\x00z\x004\x008\x00.\x00s\
+\x00v\x00g\
+\x00%\
+\x0a\xe0[\xa7\
+\x00t\
+\x00v\x00_\x00g\x00e\x00n\x00_\x00F\x00I\x00L\x00L\x000\x00_\x00w\x00g\x00h\x00t\
+\x004\x000\x000\x00_\x00G\x00R\x00A\x00D\x000\x00_\x00o\x00p\x00s\x00z\x002\x004\
+\x00.\x00s\x00v\x00g\
+\x00#\
+\x0c:\x95G\
+\x00l\
+\x00i\x00s\x00t\x00_\x00F\x00I\x00L\x00L\x000\x00_\x00w\x00g\x00h\x00t\x004\x000\
+\x000\x00_\x00G\x00R\x00A\x00D\x000\x00_\x00o\x00p\x00s\x00z\x002\x004\x00.\x00s\
+\x00v\x00g\
+\x000\
+\x07<m\xa7\
+\x00l\
+\x00a\x00p\x00t\x00o\x00p\x00_\x00c\x00h\x00r\x00o\x00m\x00e\x00b\x00o\x00o\x00k\
+\x00_\x00F\x00I\x00L\x00L\x000\x00_\x00w\x00g\x00h\x00t\x004\x000\x000\x00_\x00G\
+\x00R\x00A\x00D\x000\x00_\x00o\x00p\x00s\x00z\x002\x004\x00.\x00s\x00v\x00g\
+\x00-\
+\x09~Tg\
+\x00d\
+\x00i\x00r\x00e\x00c\x00t\x00i\x00o\x00n\x00s\x00_\x00c\x00a\x00r\x00_\x00F\x00I\
+\x00L\x00L\x000\x00_\x00w\x00g\x00h\x00t\x004\x000\x000\x00_\x00G\x00R\x00A\x00D\
+\x000\x00_\x00o\x00p\x00s\x00z\x002\x004\x00.\x00s\x00v\x00g\
+\x00\x15\
+\x05n\xfe'\
+\x00d\
+\x00e\x00l\x00e\x00t\x00e\x00_\x00b\x00l\x00a\x00c\x00k\x00_\x002\x004\x00d\x00p\
+\x00.\x00s\x00v\x00g\
+\x00\x19\
+\x02(\x9c\x07\
+\x00n\
+\x00o\x00r\x00t\x00h\x00_\x00w\x00e\x00s\x00t\x00_\x00b\x00l\x00a\x00c\x00k\x00_\
+\x002\x004\x00d\x00p\x00.\x00s\x00v\x00g\
+"
+
+qt_resource_struct = b"\
+\x00\x00\x00\x00\x00\x02\x00\x00\x00\x01\x00\x00\x00\x01\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\x00\x00\x02\x00\x00\x00\x01\x00\x00\x00\x02\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\x00\x00\x02\x00\x00\x00\x0f\x00\x00\x00\x03\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x02\x16\x00\x00\x00\x00\x00\x01\x00\x00\x09\xeb\
+\x00\x00\x01\x87\x7f\xb5Z\x05\
+\x00\x00\x01j\x00\x00\x00\x00\x00\x01\x00\x00\x07\x90\
+\x00\x00\x01\x87\x85\x18\xd8T\
+\x00\x00\x04 \x00\x00\x00\x00\x00\x01\x00\x00\x13\x12\
+\x00\x00\x01\x87\x7f\xb7\xde\xce\
+\x00\x00\x00V\x00\x00\x00\x00\x00\x01\x00\x00\x01A\
+\x00\x00\x01\x87\x7f\xb9\xe3D\
+\x00\x00\x00\x0e\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\
+\x00\x00\x01\x87\x7f\xb4\xa6\x95\
+\x00\x00\x03\xf0\x00\x00\x00\x00\x00\x01\x00\x00\x12\x12\
+\x00\x00\x01\x87\x7f\xb5\xc7\xe6\
+\x00\x00\x03*\x00\x00\x00\x00\x00\x01\x00\x00\x0f\x0a\
+\x00\x00\x01\x87\x851\x9f9\
+\x00\x00\x03\x90\x00\x00\x00\x00\x00\x01\x00\x00\x0f\xd5\
+\x00\x00\x01\x87\x7f\xcb>\xda\
+\x00\x00\x00\x94\x00\x00\x00\x00\x00\x01\x00\x00\x03\x10\
+\x00\x00\x01\x87\x7f\xca\xd9\xd3\
+\x00\x00\x012\x00\x00\x00\x00\x00\x01\x00\x00\x06\x97\
+\x00\x00\x01\x87\x7f\xb7q\xdd\
+\x00\x00\x02\x8e\x00\x00\x00\x00\x00\x01\x00\x00\x0c\x0e\
+\x00\x00\x01\x87\x8567\x0e\
+\x00\x00\x01\xc2\x00\x00\x00\x00\x00\x01\x00\x00\x08\xcf\
+\x00\x00\x01\x87\x853\x0a\x90\
+\x00\x00\x02B\x00\x00\x00\x00\x00\x01\x00\x00\x0b^\
+\x00\x00\x01\x87\x7f\xbeLb\
+\x00\x00\x02\xde\x00\x00\x00\x00\x00\x01\x00\x00\x0d,\
+\x00\x00\x01\x87\x7f\xcc\xfc\x85\
+\x00\x00\x00\xf4\x00\x00\x00\x00\x00\x01\x00\x00\x05\xcb\
+\x00\x00\x01\x87\x7f\xb1\xb7L\
+"
+
+def qInitResources():
+    QtCore.qRegisterResourceData(0x03, qt_resource_struct, qt_resource_name, qt_resource_data)
+
+def qCleanupResources():
+    QtCore.qUnregisterResourceData(0x03, qt_resource_struct, qt_resource_name, qt_resource_data)
+
+qInitResources()
