@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/add_circle_outline_black_24dp.svg</file>
+    <file>icon/call_received_black_24dp.svg</file>
+    <file>icon/delete_black_24dp.svg</file>
+    <file>icon/directions_car_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icon/edit_black_24dp.svg</file>
+    <file>icon/laptop_chromebook_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icon/list_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icon/menu_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>icon/north_west_black_24dp.svg</file>
+    <file>icon/shopping_cart_black_24dp.svg</file>
+    <file>icon/smartphone_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icon/south_west_black_24dp.svg</file>
+    <file>icon/sports_esports_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icon/tv_gen_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icon/videocam_FILL0_wght400_GRAD0_opsz24.svg</file>
+  </qresource>
+</RCC>

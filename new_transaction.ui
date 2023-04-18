@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>302</width>
+    <height>322</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: qconicalgradient(cx:1, cy:0, angle:82.1, stop:0 rgba(166, 140, 41, 255), stop:0.261364 rgba(204, 181, 74, 255), stop:0.267045 rgba(245, 236, 112, 255), stop:0.295455 rgba(235, 219, 102, 255), stop:0.528409 rgba(208, 231, 78, 255), stop:0.556818 rgba(168, 142, 42, 255), stop:0.57 rgba(187, 156, 51, 255), stop:0.58183 rgba(218, 202, 86, 255), stop:0.837526 rgba(208, 187, 73, 255), stop:0.88 rgba(187, 156, 51, 255), stop:0.935 rgba(137, 108, 26, 255));
+font-family: Forte</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout_2">
+   <item>
+    <widget class="QFrame" name="frame">
+     <property name="styleSheet">
+      <string notr="true">background-color: rgba(255, 255, 255, 30);
+border: 1px solid rgba(255, 255, 255, 40);
+border-radius: 7px;</string>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
+       <widget class="QLabel" name="lbl_new_transaction">
+        <property name="styleSheet">
+         <string notr="true">font-weight: bold;
+font-size: 20pt;
+background-color: none;
+border: none;</string>
+        </property>
+        <property name="text">
+         <string>New transaction</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QComboBox" name="cb_choose_category">
+        <property name="styleSheet">
+         <string notr="true">QComboBox {
+font-size: 16pt;
+color: black;
+}
+
+QComboBox:item {
+color: black;
+
+}</string>
+        </property>
+        <property name="currentIndex">
+         <number>-1</number>
+        </property>
+        <property name="placeholderText">
+         <string>Choose category</string>
+        </property>
+        <item>
+         <property name="text">
+          <string>Smartphone</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Televisions</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Laptops</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Other</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item>
+       <widget class="QDateEdit" name="data">
+        <property name="styleSheet">
+         <string notr="true">font-size: 16px;
+color: black;
+padding-lift: 10px;
+height: 30px;
+</string>
+        </property>
+        <property name="buttonSymbols">
+         <enum>QAbstractSpinBox::UpDownArrows</enum>
+        </property>
+        <property name="dateTime">
+         <datetime>
+          <hour>0</hour>
+          <minute>0</minute>
+          <second>0</second>
+          <year>2023</year>
+          <month>3</month>
+          <day>31</day>
+         </datetime>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="le_discription">
+        <property name="styleSheet">
+         <string notr="true">font-size: 16px;
+color: black;
+padding-lift: 10px;
+height: 30px;
+</string>
+        </property>
+        <property name="placeholderText">
+         <string>Discription</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="le2_balance">
+        <property name="styleSheet">
+         <string notr="true">font-size: 16px;
+color: black;
+padding-lift: 10px;
+height: 30px;
+</string>
+        </property>
+        <property name="placeholderText">
+         <string>Balance</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QComboBox" name="cb2_jncome">
+        <property name="styleSheet">
+         <string notr="true">font-size: 16px;
+color: black;
+padding-lift: 10px;
+height: 30px;
+</string>
+        </property>
+        <item>
+         <property name="text">
+          <string>Income</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Outcome</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb_save_new_transaction">
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+color: Black;
+background-color: rgba(255 , 255, 255, 30);
+border: 1px solid rgba(255, 255, 255, 40);
+border radius: 3px;
+width: 20px;
+height: 50px;
+font-size: 15pt;
+
+}
+QPushButton: hover {
+background-color: rgba(255, 255, 255, 40);
+}
+QPushButton: pressed {
+background-color: rgba(255, 255, 255, 70);
+}</string>
+        </property>
+        <property name="text">
+         <string>Save new transaction</string>
+        </property>
+        <property name="icon">
+         <iconset resource="res-new-window.qrc">
+          <normaloff>:/icon/icon/add_circle_outline_black_24dp.svg</normaloff>:/icon/icon/add_circle_outline_black_24dp.svg</iconset>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>24</width>
+          <height>24</height>
+         </size>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources>
+  <include location="res-new-window.qrc"/>
+ </resources>
+ <connections/>
+</ui>
