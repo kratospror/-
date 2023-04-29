@@ -78,7 +78,7 @@ class Data:
         return self.get_total(column="Category", filter="Category", value="Smartphone")
 
     def label_laptope_balance(self):
-        return self.get_total(column="Category", filter="Category", value="Laptope")
+        return self.get_total(column="Category", filter="Category", value="Laptops")
 
     def label_televisions_balance(self):
         return self.get_total(column="Category", filter="Category", value="Televisions")
