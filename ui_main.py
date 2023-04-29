@@ -21,6 +21,9 @@ from PySide6.QtWidgets import (QApplication, QFrame, QHBoxLayout, QHeaderView,
 import res_rc
 
 class Ui_MainWindow(object):
+    def __init__(self):
+            self.current_balance = None
+
     def setupUi(self, MainWindow):
         if not MainWindow.objectName():
             MainWindow.setObjectName(u"MainWindow")
